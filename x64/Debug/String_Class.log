@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Labb5CPP.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  String_Class.cpp
+C:\Users\arn\source\repos\Labb5CPP\String_Class.cpp(86,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\arn\source\repos\Labb5CPP\String_Class.cpp(116,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arn\source\repos\Labb5CPP\String_Class.cpp(157,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  String.cpp
+  Generating Code...
+  String_Class.vcxproj -> C:\Users\arn\source\repos\Labb5CPP\x64\Debug\String_Class.exe

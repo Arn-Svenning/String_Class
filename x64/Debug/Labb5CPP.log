@@ -1,0 +1,5 @@
+﻿  Labb5CPP.cpp
+C:\Users\arn\source\repos\Labb5CPP\Labb5CPP.cpp(86,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\arn\source\repos\Labb5CPP\Labb5CPP.cpp(116,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arn\source\repos\Labb5CPP\Labb5CPP.cpp(157,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Labb5CPP.vcxproj -> C:\Users\arn\source\repos\Labb5CPP\x64\Debug\Labb5CPP.exe
